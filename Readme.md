@@ -16,10 +16,10 @@ El **Futbol** es *el deporte más popular del mundo*, tiene una gran y larga his
 
 Esto tambien marcado por miles de equipos muy populares:
 
-**Real madrid**
+**-Real madrid**
 
-**Barcelona**
+**-Barcelona**
 
-**Manchester United**
+**-Manchester United**
 
-**Manchester City** etc...
+**-Manchester City** etc...
